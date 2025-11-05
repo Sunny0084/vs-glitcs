@@ -1,0 +1,5 @@
+Lyrical Genius but Bf
+Put lyrics in yo song woo
+
+value1 = text or lyrics
+value2 = duration before its gone (in seconds)

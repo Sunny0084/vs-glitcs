@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitcs.png">
+<SubTexture name="glitcs idle0000" x="695" y="457" width="222" height="428" frameX="-419" frameY="-301" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="glitcs idle0001" x="219" y="457" width="220" height="430" frameX="-419" frameY="-299" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="glitcs idle0002" x="0" y="457" width="219" height="431" frameX="-418" frameY="-298" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="glitcs idle0003" x="733" y="0" width="217" height="433" frameX="-418" frameY="-296" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="glitcs idle0004" x="518" y="0" width="215" height="434" frameX="-418" frameY="-295" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="glitcs down0000" x="0" y="888" width="266" height="409" frameX="-435" frameY="-322" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="glitcs down0001" x="1216" y="422" width="264" height="416" frameX="-434" frameY="-315" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="glitcs up0000" x="0" y="0" width="259" height="457" frameX="-401" frameY="-270" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="glitcs up0001" x="259" y="0" width="259" height="443" frameX="-403" frameY="-284" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="glitcs left0000" x="950" y="428" width="259" height="423" frameX="-361" frameY="-304" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="glitcs left0001" x="439" y="457" width="256" height="430" frameX="-369" frameY="-297" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="glitcs right0000" x="1216" y="0" width="270" height="422" frameX="-398" frameY="-307" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="glitcs right0001" x="950" y="0" width="266" height="428" frameX="-394" frameY="-301" frameWidth="1080" frameHeight="1080" />
+</TextureAtlas>

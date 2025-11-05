@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "transform",
+			"fps": 12,
+			"name": "szkrics transform",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "szkrics left"
+		},
+		{
+			"offsets": [
+				-18,
+				-4
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "szkrics down"
+		},
+		{
+			"offsets": [
+				-6,
+				-2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "szkrics up"
+		},
+		{
+			"offsets": [
+				-3,
+				-2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "szkrics right"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "szkrics idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/szkrics",
+	"position": [
+		70,
+		190
+	],
+	"healthicon": "szkrics",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		169
+	],
+	"camera_position": [
+		-250,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

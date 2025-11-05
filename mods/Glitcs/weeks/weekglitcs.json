@@ -1,0 +1,50 @@
+{
+	"storyName": "pessimistic mf",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "glitcs",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"how-to-be",
+			"gf",
+			[
+				0,
+				255,
+				115
+			]
+		],
+		[
+			"borin",
+			"gf",
+			[
+				0,
+				255,
+				115
+			]
+		],
+		[
+			"i-dont-have-a-better-song-name-idea-so-im-gonna-call-this-song-almmost",
+			"gf",
+			[
+				0,
+				255,
+				115
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

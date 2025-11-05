@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fartelbus.png">
+<SubTexture name="fartelbus idle0000" x="2811" y="0" width="537" height="484" frameX="-469" frameY="-358" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus idle0001" x="1307" y="1966" width="384" height="562" frameX="-484" frameY="-278" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus idle0002" x="919" y="1966" width="388" height="571" frameX="-462" frameY="-270" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus idle0003" x="2320" y="0" width="491" height="630" frameX="-204" frameY="-211" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus idle0004" x="2320" y="1259" width="474" height="628" frameX="-260" frameY="-213" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus idle0005" x="1413" y="0" width="450" height="635" frameX="-298" frameY="-206" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus idle0006" x="1863" y="0" width="457" height="635" frameX="-285" frameY="-206" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus idle0007" x="1863" y="635" width="457" height="635" frameX="-285" frameY="-206" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus idle0008" x="0" y="1331" width="457" height="635" frameX="-285" frameY="-206" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus right0000" x="921" y="0" width="492" height="640" frameX="-512" frameY="-202" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus right0001" x="1360" y="1331" width="489" height="632" frameX="-495" frameY="-209" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus right0002" x="0" y="692" width="470" height="639" frameX="-312" frameY="-202" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus right0003" x="470" y="692" width="459" height="637" frameX="-289" frameY="-204" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus right0004" x="1849" y="1331" width="463" height="632" frameX="-267" frameY="-209" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus right0005" x="0" y="1331" width="457" height="635" frameX="-285" frameY="-206" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus left0000" x="442" y="1966" width="477" height="626" frameX="-120" frameY="-215" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus left0001" x="0" y="1966" width="442" height="627" frameX="-156" frameY="-214" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus left0002" x="1413" y="635" width="410" height="635" frameX="-191" frameY="-206" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus left0003" x="457" y="1331" width="450" height="634" frameX="-274" frameY="-207" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus left0004" x="907" y="1331" width="453" height="634" frameX="-303" frameY="-207" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus left0005" x="0" y="1331" width="457" height="635" frameX="-285" frameY="-206" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus up0000" x="0" y="0" width="457" height="692" frameX="-157" frameY="-150" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus up0001" x="457" y="0" width="464" height="692" frameX="-163" frameY="-150" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus up0002" x="929" y="692" width="472" height="637" frameX="-262" frameY="-204" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus up0003" x="2320" y="630" width="454" height="629" frameX="-291" frameY="-212" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus up0004" x="0" y="1331" width="457" height="635" frameX="-285" frameY="-206" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="fartelbus down0000" x="1691" y="1966" width="1080" height="545" frameX="0" frameY="-293" frameWidth="1080" frameHeight="1080" />
+</TextureAtlas>

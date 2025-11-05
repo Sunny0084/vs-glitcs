@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="test.png">
+<SubTexture name="test testidle0000" x="552" y="188" width="82" height="146" frameX="-584" frameY="-231" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testidle0001" x="634" y="188" width="86" height="144" frameX="-581" frameY="-231" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testidle0002" x="194" y="224" width="81" height="142" frameX="-583" frameY="-231" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testidle0003" x="275" y="224" width="85" height="138" frameX="-581" frameY="-231" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testidle0004" x="194" y="224" width="81" height="142" frameX="-583" frameY="-231" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testidle0005" x="634" y="188" width="86" height="144" frameX="-581" frameY="-231" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testright0000" x="200" y="585" width="140" height="85" frameX="-562" frameY="-278" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testright0001" x="0" y="585" width="200" height="88" frameX="-551" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testright0002" x="452" y="353" width="189" height="67" frameX="-553" frameY="-293" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testup0000" x="76" y="224" width="118" height="192" frameX="-530" frameY="-184" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testup0001" x="0" y="224" width="76" height="199" frameX="-569" frameY="-182" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testup0002" x="452" y="188" width="100" height="165" frameX="-558" frameY="-211" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testdown0000" x="340" y="585" width="194" height="77" frameX="-551" frameY="-316" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testdown0001" x="302" y="423" width="221" height="100" frameX="-540" frameY="-303" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testdown0002" x="523" y="423" width="248" height="97" frameX="-547" frameY="-303" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testleft0000" x="0" y="423" width="302" height="162" frameX="-495" frameY="-228" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testleft0001" x="452" y="0" width="348" height="188" frameX="-458" frameY="-214" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testleft0002" x="0" y="0" width="452" height="224" frameX="-362" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="test testleft0003" x="0" y="0" width="452" height="224" frameX="-362" frameY="-186" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

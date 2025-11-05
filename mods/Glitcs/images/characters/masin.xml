@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="masin.png">
+<SubTexture name="masin boop0000" x="239" y="313" width="244" height="298" frameX="-84" frameY="-210" frameWidth="720" frameHeight="720" />
+<SubTexture name="masin boop0001" x="0" y="313" width="239" height="303" frameX="-86" frameY="-205" frameWidth="720" frameHeight="720" />
+<SubTexture name="masin boop0002" x="456" y="0" width="234" height="307" frameX="-89" frameY="-201" frameWidth="720" frameHeight="720" />
+<SubTexture name="masin boop0003" x="226" y="0" width="230" height="311" frameX="-91" frameY="-197" frameWidth="720" frameHeight="720" />
+<SubTexture name="masin boop0004" x="0" y="0" width="226" height="313" frameX="-93" frameY="-195" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

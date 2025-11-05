@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "raptorgamer left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "raptorgamer down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				1
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "raptorgamer up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "raptorgamer right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "raptorgamer idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/raptorgamer",
+	"position": [
+		160,
+		180
+	],
+	"healthicon": "raptor",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		55
+	],
+	"camera_position": [
+		-250,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

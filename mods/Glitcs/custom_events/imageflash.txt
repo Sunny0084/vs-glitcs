@@ -1,0 +1,4 @@
+Flash an image on screen
+
+Value 1: Name of the image (empty to remove image)
+Value 2: <empty>

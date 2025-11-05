@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, -7],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "raggy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -8],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "raggy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -8],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "raggy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -12],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "raggy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -9],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "raggy ia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -9],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "raggy ib",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/raggy",
+	"position": [100, 170],
+	"healthicon": "s",
+	"flip_x": false,
+	"healthbar_colors": [255, 34, 0],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
