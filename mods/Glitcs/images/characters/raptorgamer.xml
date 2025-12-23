@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="raptorgamer.png">
+<SubTexture name="raptorgamer idle0000" x="983" y="0" width="237" height="253" frameX="-446" frameY="-475" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="raptorgamer idle0001" x="470" y="666" width="237" height="257" frameX="-444" frameY="-472" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="raptorgamer idle0002" x="235" y="666" width="235" height="261" frameX="-443" frameY="-468" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="raptorgamer idle0003" x="0" y="666" width="235" height="265" frameX="-441" frameY="-464" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="raptorgamer idle0004" x="748" y="273" width="233" height="268" frameX="-440" frameY="-461" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="raptorgamer up0000" x="0" y="0" width="375" height="386" frameX="-311" frameY="-344" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="raptorgamer up0001" x="375" y="0" width="373" height="374" frameX="-315" frameY="-356" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="raptorgamer down0000" x="983" y="253" width="233" height="247" frameX="-456" frameY="-480" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="raptorgamer down0001" x="707" y="666" width="231" height="255" frameX="-452" frameY="-472" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="raptorgamer right0000" x="748" y="0" width="235" height="273" frameX="-456" frameY="-454" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="raptorgamer right0001" x="193" y="386" width="232" height="277" frameX="-454" frameY="-450" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="raptorgamer left0000" x="425" y="386" width="196" height="274" frameX="-450" frameY="-454" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="raptorgamer left0001" x="0" y="386" width="193" height="280" frameX="-456" frameY="-448" frameWidth="1080" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="szkrirun.png">
+<SubTexture name="szkrirun run0000" x="393" y="807" width="390" height="368" frameX="-16" frameY="-152" frameWidth="720" frameHeight="720" />
+<SubTexture name="szkrirun run0001" x="0" y="807" width="393" height="369" frameX="-18" frameY="-154" frameWidth="720" frameHeight="720" />
+<SubTexture name="szkrirun run0002" x="402" y="421" width="386" height="375" frameX="-16" frameY="-148" frameWidth="720" frameHeight="720" />
+<SubTexture name="szkrirun run0003" x="997" y="0" width="387" height="373" frameX="-14" frameY="-149" frameWidth="720" frameHeight="720" />
+<SubTexture name="szkrirun left0000" x="0" y="0" width="298" height="421" frameX="-31" frameY="-133" frameWidth="720" frameHeight="720" />
+<SubTexture name="szkrirun left0001" x="298" y="0" width="296" height="418" frameX="-32" frameY="-133" frameWidth="720" frameHeight="720" />
+<SubTexture name="szkrirun right0000" x="594" y="0" width="403" height="389" frameX="-23" frameY="-150" frameWidth="720" frameHeight="720" />
+<SubTexture name="szkrirun right0001" x="0" y="421" width="402" height="386" frameX="-19" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="szkrirun up0000" x="997" y="373" width="367" height="360" frameX="-1" frameY="-160" frameWidth="720" frameHeight="720" />
+<SubTexture name="szkrirun up0001" x="783" y="807" width="363" height="358" frameX="-10" frameY="-160" frameWidth="720" frameHeight="720" />
+<SubTexture name="szkrirun down0000" x="1384" y="0" width="324" height="343" frameX="-47" frameY="-226" frameWidth="720" frameHeight="720" />
+<SubTexture name="szkrirun down0001" x="0" y="1176" width="327" height="338" frameX="-40" frameY="-219" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

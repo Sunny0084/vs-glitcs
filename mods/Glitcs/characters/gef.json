@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "gef idlea",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "gef idleb",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gef",
+	"position": [
+		100,
+		160
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		10,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

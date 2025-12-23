@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "sadboi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "sadboi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "sadboi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "sadboi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "sadboi idlea",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "sadboi idleb",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sadboi",
+	"position": [
+		-360,
+		200
+	],
+	"healthicon": "zigmund",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		34,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

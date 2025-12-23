@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="raptorgamer.png">
+<SubTexture name="raptorgamer idle0000" x="280" y="811" width="284" height="234" frameX="-245" frameY="-344" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer idle0001" x="0" y="811" width="280" height="240" frameX="-247" frameY="-338" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer idle0002" x="660" y="550" width="257" height="256" frameX="-256" frameY="-322" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer idle0003" x="747" y="0" width="242" height="265" frameX="-262" frameY="-313" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer idle0004" x="0" y="283" width="240" height="267" frameX="-263" frameY="-311" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer down0000" x="989" y="0" width="236" height="253" frameX="-270" frameY="-326" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer down0001" x="0" y="550" width="222" height="261" frameX="-274" frameY="-318" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer left0000" x="222" y="550" width="215" height="259" frameX="-233" frameY="-319" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer left0001" x="240" y="283" width="201" height="266" frameX="-252" frameY="-313" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer right0000" x="441" y="283" width="276" height="266" frameX="-278" frameY="-312" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer right0001" x="488" y="0" width="259" height="272" frameX="-274" frameY="-306" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer up0000" x="242" y="0" width="246" height="278" frameX="-263" frameY="-155" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer up0001" x="0" y="0" width="242" height="283" frameX="-260" frameY="-154" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer up0002" x="747" y="265" width="206" height="262" frameX="-215" frameY="-195" frameWidth="720" frameHeight="720" />
+<SubTexture name="raptorgamer up0003" x="437" y="550" width="223" height="258" frameX="-157" frameY="-308" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

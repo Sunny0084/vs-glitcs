@@ -1,0 +1,41 @@
+{
+	"storyName": "funni lizard",
+	"difficulties": "normal,romania",
+	"hideFreeplay": false,
+	"weekBackground": "raptor",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"goof",
+			"gf",
+			[
+				130,
+				120,
+				120
+			]
+		],
+		[
+			"goofster",
+			"gf",
+			[
+				90,
+				80,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

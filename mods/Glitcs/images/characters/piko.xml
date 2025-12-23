@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="piko.png">
+<SubTexture name="piko idle0000" x="0" y="0" width="338" height="406" frameX="-198" frameY="-185" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko idle0001" x="338" y="0" width="353" height="387" frameX="-200" frameY="-202" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko idle0002" x="0" y="406" width="368" height="375" frameX="-193" frameY="-213" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko idle0003" x="368" y="406" width="375" height="371" frameX="-190" frameY="-217" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko idle0004" x="1039" y="0" width="380" height="364" frameX="-188" frameY="-223" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko down0000" x="0" y="1138" width="387" height="329" frameX="-195" frameY="-257" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko down0001" x="1042" y="781" width="361" height="344" frameX="-206" frameY="-242" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko miss0000" x="1419" y="641" width="184" height="257" frameX="-272" frameY="-311" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko miss0001" x="1419" y="343" width="223" height="298" frameX="-237" frameY="-269" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko up0000" x="691" y="0" width="348" height="378" frameX="-172" frameY="-208" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko up0001" x="0" y="781" width="352" height="357" frameX="-172" frameY="-228" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko right0000" x="352" y="781" width="307" height="355" frameX="-240" frameY="-231" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko right0001" x="1419" y="0" width="326" height="343" frameX="-225" frameY="-243" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko left0000" x="659" y="781" width="383" height="354" frameX="-172" frameY="-232" frameWidth="720" frameHeight="720" />
+<SubTexture name="piko left0001" x="1039" y="364" width="366" height="359" frameX="-182" frameY="-227" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

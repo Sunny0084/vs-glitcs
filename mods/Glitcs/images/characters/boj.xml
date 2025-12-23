@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boj.png">
+<SubTexture name="boj idle0000" x="0" y="1285" width="355" height="403" frameX="-350" frameY="-327" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj idle0001" x="1688" y="815" width="354" height="406" frameX="-354" frameY="-324" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj idle0002" x="1320" y="828" width="353" height="410" frameX="-359" frameY="-320" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj idle0003" x="1320" y="415" width="352" height="413" frameX="-364" frameY="-317" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj idle0004" x="341" y="866" width="349" height="416" frameX="-370" frameY="-314" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj dodge0000" x="1008" y="419" width="277" height="406" frameX="-384" frameY="-313" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj dodge0001" x="709" y="441" width="277" height="406" frameX="-388" frameY="-316" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj dodge0002" x="710" y="1285" width="277" height="396" frameX="-400" frameY="-334" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj dodge0003" x="1039" y="866" width="276" height="400" frameX="-398" frameY="-327" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj lmiss0000" x="0" y="0" width="333" height="441" frameX="-434" frameY="-293" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj lmiss0001" x="333" y="0" width="336" height="428" frameX="-445" frameY="-305" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj rmiss0000" x="690" y="866" width="349" height="416" frameX="-370" frameY="-314" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj umiss0000" x="987" y="1285" width="221" height="334" frameX="-435" frameY="-398" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj dmiss0000" x="1008" y="0" width="312" height="419" frameX="-413" frameY="-315" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj up0000" x="669" y="0" width="339" height="427" frameX="-385" frameY="-304" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj up0001" x="0" y="866" width="341" height="419" frameX="-376" frameY="-311" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj down0000" x="355" y="1285" width="355" height="397" frameX="-367" frameY="-340" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj down0001" x="1688" y="408" width="354" height="407" frameX="-373" frameY="-330" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj left0000" x="353" y="441" width="356" height="420" frameX="-337" frameY="-309" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj left0001" x="0" y="441" width="353" height="425" frameX="-343" frameY="-304" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj right0000" x="1688" y="0" width="369" height="408" frameX="-385" frameY="-323" frameWidth="1080" frameHeight="1080" />
+<SubTexture name="boj right0001" x="1320" y="0" width="368" height="415" frameX="-380" frameY="-316" frameWidth="1080" frameHeight="1080" />
+</TextureAtlas>

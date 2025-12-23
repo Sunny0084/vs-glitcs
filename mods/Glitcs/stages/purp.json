@@ -1,0 +1,47 @@
+{
+	"camera_boyfriend": [
+		0,
+		200
+	],
+	"_editorMeta": {
+		"boyfriend": "boj",
+		"gf": "gef",
+		"dad": "glitcs"
+	},
+	"girlfriend": [
+		250,
+		0
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		680,
+		0
+	],
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		200
+	],
+	"defaultZoom": 0.8,
+	"camera_speed": 0,
+	"directory": "",
+	"opponent": [
+		0,
+		0
+	],
+	"camera_opponent": [
+		0,
+		200
+	],
+	"hide_girlfriend": false
+}

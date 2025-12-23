@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="zig.png">
+<SubTexture name="zig up0000" x="0" y="0" width="213" height="388" frameX="-242" frameY="-198" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig up0001" x="213" y="0" width="229" height="378" frameX="-236" frameY="-208" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig down0000" x="1174" y="340" width="247" height="340" frameX="-270" frameY="-246" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig down0001" x="920" y="355" width="233" height="349" frameX="-269" frameY="-237" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig left0000" x="0" y="1103" width="277" height="338" frameX="-174" frameY="-247" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig left0001" x="770" y="749" width="265" height="343" frameX="-189" frameY="-243" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig right0000" x="1174" y="680" width="255" height="340" frameX="-307" frameY="-244" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig right0001" x="520" y="749" width="250" height="347" frameX="-301" frameY="-237" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig idlea0000" x="277" y="1103" width="282" height="336" frameX="-263" frameY="-251" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig idlea0001" x="1174" y="0" width="277" height="340" frameX="-261" frameY="-247" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig idlea0002" x="257" y="749" width="263" height="350" frameX="-254" frameY="-237" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig idlea0003" x="0" y="749" width="257" height="354" frameX="-253" frameY="-233" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig idlea0004" x="501" y="388" width="254" height="355" frameX="-253" frameY="-232" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig idleb0000" x="442" y="0" width="236" height="372" frameX="-249" frameY="-216" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig idleb0001" x="678" y="0" width="242" height="371" frameX="-248" frameY="-217" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig idleb0002" x="0" y="388" width="248" height="361" frameX="-251" frameY="-226" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig idleb0003" x="248" y="388" width="253" height="356" frameX="-252" frameY="-231" frameWidth="720" frameHeight="720" />
+<SubTexture name="zig idleb0004" x="920" y="0" width="254" height="355" frameX="-253" frameY="-232" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

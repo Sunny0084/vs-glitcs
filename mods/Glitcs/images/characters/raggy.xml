@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="raggy.png">
+<SubTexture name="raggy ia0000" x="855" y="563" width="323" height="527" frameX="-207" frameY="-66" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy ia0001" x="0" y="563" width="306" height="536" frameX="-203" frameY="-57" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy ia0002" x="1098" y="0" width="296" height="540" frameX="-208" frameY="-53" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy ia0003" x="541" y="0" width="293" height="545" frameX="-210" frameY="-48" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy ia0004" x="249" y="0" width="292" height="550" frameX="-210" frameY="-43" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy ib0000" x="1394" y="0" width="318" height="527" frameX="-183" frameY="-68" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy ib0001" x="0" y="563" width="306" height="536" frameX="-203" frameY="-57" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy ib0002" x="1098" y="0" width="296" height="540" frameX="-208" frameY="-53" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy ib0003" x="541" y="0" width="293" height="545" frameX="-210" frameY="-48" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy ib0004" x="249" y="0" width="292" height="550" frameX="-210" frameY="-43" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy down0000" x="263" y="1099" width="300" height="494" frameX="-224" frameY="-98" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy down0001" x="1394" y="527" width="278" height="508" frameX="-233" frameY="-84" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy up0000" x="0" y="0" width="249" height="563" frameX="-217" frameY="-29" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy up0001" x="590" y="563" width="265" height="531" frameX="-208" frameY="-60" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy left0000" x="563" y="1099" width="291" height="491" frameX="-163" frameY="-101" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy left0001" x="0" y="1099" width="263" height="506" frameX="-186" frameY="-86" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy right0000" x="306" y="563" width="284" height="533" frameX="-239" frameY="-59" frameWidth="720" frameHeight="720" />
+<SubTexture name="raggy right0001" x="834" y="0" width="264" height="544" frameX="-243" frameY="-48" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

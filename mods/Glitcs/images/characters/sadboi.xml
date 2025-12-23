@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sadboi.png">
+<SubTexture name="sadboi idlea0000" x="0" y="1410" width="401" height="417" frameX="-139" frameY="-154" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi idlea0001" x="1629" y="0" width="393" height="425" frameX="-143" frameY="-147" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi idlea0002" x="0" y="963" width="355" height="447" frameX="-162" frameY="-127" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi idlea0003" x="664" y="502" width="334" height="456" frameX="-172" frameY="-119" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi idlea0004" x="0" y="502" width="332" height="461" frameX="-173" frameY="-114" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi idleb0000" x="401" y="1410" width="401" height="417" frameX="-139" frameY="-154" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi idleb0001" x="1629" y="425" width="393" height="425" frameX="-143" frameY="-147" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi idleb0002" x="355" y="963" width="355" height="447" frameX="-162" frameY="-127" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi idleb0003" x="1295" y="0" width="334" height="456" frameX="-172" frameY="-119" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi idleb0004" x="332" y="502" width="332" height="461" frameX="-173" frameY="-114" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi left0000" x="1114" y="1410" width="334" height="374" frameX="-132" frameY="-170" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi left0001" x="802" y="1410" width="312" height="388" frameX="-153" frameY="-156" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi right0000" x="1629" y="850" width="364" height="422" frameX="-223" frameY="-155" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi right0001" x="1054" y="963" width="345" height="432" frameX="-224" frameY="-146" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi down0000" x="710" y="963" width="344" height="442" frameX="-153" frameY="-133" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi down0001" x="1295" y="456" width="321" height="454" frameX="-165" frameY="-122" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi up0000" x="0" y="0" width="313" height="502" frameX="-212" frameY="-43" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi up0001" x="313" y="0" width="325" height="487" frameX="-198" frameY="-58" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi up0002" x="638" y="0" width="325" height="487" frameX="-198" frameY="-58" frameWidth="720" frameHeight="720" />
+<SubTexture name="sadboi up0003" x="963" y="0" width="332" height="482" frameX="-191" frameY="-63" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

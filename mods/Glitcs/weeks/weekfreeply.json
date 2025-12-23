@@ -1,0 +1,104 @@
+{
+	"storyName": "get glitcsed dumbass",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"szkrics",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"zigmun",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ron-and-shaggy-randomly-sings-against-prehistoric-lizard",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"glitcsed",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"pessimism",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"kako",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"quote-and-quote-depressed",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"brain-dead-trio",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"benger",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

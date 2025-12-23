@@ -1,0 +1,50 @@
+{
+	"storyName": "he do be evil",
+	"difficulties": "ez,normal,harder,noraml",
+	"hideFreeplay": false,
+	"weekBackground": "eclipse",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"corruptingeclipse",
+			"gf",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"corrupted-hell",
+			"gf",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"brain-dead-trianon",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

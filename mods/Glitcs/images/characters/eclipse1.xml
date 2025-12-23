@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eclipse.png">
+<SubTexture name="eclipse idle0000" x="648" y="949" width="303" height="434" frameX="-246" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse idle0001" x="0" y="949" width="298" height="437" frameX="-247" frameY="-142" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse idle0002" x="1118" y="441" width="294" height="440" frameX="-247" frameY="-139" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse idle0003" x="559" y="486" width="289" height="443" frameX="-248" frameY="-136" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse idle0004" x="276" y="486" width="283" height="446" frameX="-249" frameY="-133" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse alt0000" x="1118" y="0" width="352" height="441" frameX="-253" frameY="-138" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse alt0001" x="298" y="949" width="350" height="436" frameX="-253" frameY="-143" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse alt0002" x="951" y="949" width="337" height="421" frameX="-250" frameY="-160" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse alt0003" x="1470" y="0" width="338" height="409" frameX="-249" frameY="-172" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse down0000" x="2126" y="780" width="339" height="386" frameX="-230" frameY="-192" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse down0001" x="1470" y="409" width="326" height="402" frameX="-232" frameY="-177" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse down0002" x="1470" y="811" width="326" height="402" frameX="-232" frameY="-177" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse down0003" x="0" y="1386" width="326" height="402" frameX="-232" frameY="-177" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse down0004" x="326" y="1386" width="326" height="402" frameX="-232" frameY="-177" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse left0000" x="2126" y="0" width="397" height="392" frameX="-12" frameY="-184" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse left0001" x="652" y="1386" width="376" height="400" frameX="-33" frameY="-176" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse right0000" x="2126" y="392" width="332" height="388" frameX="-351" frameY="-191" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse right0001" x="1028" y="1386" width="318" height="396" frameX="-347" frameY="-183" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse right0002" x="1346" y="1386" width="318" height="396" frameX="-347" frameY="-183" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse right0003" x="1808" y="0" width="318" height="396" frameX="-347" frameY="-183" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse right0004" x="1808" y="396" width="318" height="396" frameX="-347" frameY="-183" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse up0000" x="0" y="0" width="290" height="486" frameX="-109" frameY="-90" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse up0001" x="290" y="0" width="276" height="463" frameX="-130" frameY="-113" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse up0002" x="566" y="0" width="276" height="463" frameX="-130" frameY="-113" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse up0003" x="842" y="0" width="276" height="463" frameX="-130" frameY="-113" frameWidth="720" frameHeight="720" />
+<SubTexture name="eclipse up0004" x="0" y="486" width="276" height="463" frameX="-130" frameY="-113" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

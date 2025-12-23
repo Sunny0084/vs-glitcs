@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-5, -2],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "eclipse left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-4, 2],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "eclipse down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-5, -1],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "eclipse up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-5, -1],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "eclipse right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "down-alt",
+			"fps": 12,
+			"name": "eclipse slash",
+			"indices": []
+		},
+		{
+			"offsets": [-103, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "alt",
+			"indices": [],
+			"name": "eclipse alt"
+		},
+		{
+			"loop": true,
+			"offsets": [-5, 0],
+			"anim": "idle",
+			"fps": 14,
+			"name": "eclipse idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/eclipse",
+	"position": [250, 340],
+	"healthicon": "glitcs",
+	"flip_x": false,
+	"healthbar_colors": [16, 0, 57],
+	"camera_position": [-250, -40],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
