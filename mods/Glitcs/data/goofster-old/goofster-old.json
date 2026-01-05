@@ -1,5 +1,5 @@
 {
-	"player1": "boj",
+	"player1": "boj-old",
 	"player2": "raptor-old",
 	"events": [
 		[
@@ -4295,7 +4295,7 @@
 			"bpm": 160
 		}
 	],
-	"gfVersion": "gef",
+	"gfVersion": "gef-old",
 	"splashSkin": "noteSplashes",
 	"song": "goofster-old",
 	"validScore": true,

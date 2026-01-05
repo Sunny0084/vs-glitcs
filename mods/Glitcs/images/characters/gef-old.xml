@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gef-old.png">
+<SubTexture name="gef idlea0000" x="1279" y="0" width="336" height="429" frameX="-181" frameY="-158" frameWidth="720" frameHeight="720" />
+<SubTexture name="gef idlea0001" x="948" y="0" width="331" height="432" frameX="-188" frameY="-155" frameWidth="720" frameHeight="720" />
+<SubTexture name="gef idlea0002" x="318" y="440" width="325" height="435" frameX="-196" frameY="-152" frameWidth="720" frameHeight="720" />
+<SubTexture name="gef idlea0003" x="628" y="0" width="320" height="438" frameX="-203" frameY="-149" frameWidth="720" frameHeight="720" />
+<SubTexture name="gef idlea0004" x="0" y="0" width="314" height="440" frameX="-211" frameY="-147" frameWidth="720" frameHeight="720" />
+<SubTexture name="gef idleb0000" x="0" y="876" width="337" height="424" frameX="-220" frameY="-163" frameWidth="720" frameHeight="720" />
+<SubTexture name="gef idleb0001" x="1279" y="429" width="330" height="428" frameX="-218" frameY="-159" frameWidth="720" frameHeight="720" />
+<SubTexture name="gef idleb0002" x="948" y="432" width="325" height="432" frameX="-215" frameY="-155" frameWidth="720" frameHeight="720" />
+<SubTexture name="gef idleb0003" x="0" y="440" width="318" height="436" frameX="-213" frameY="-151" frameWidth="720" frameHeight="720" />
+<SubTexture name="gef idleb0004" x="314" y="0" width="314" height="440" frameX="-211" frameY="-147" frameWidth="720" frameHeight="720" />
+</TextureAtlas>
