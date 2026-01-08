@@ -1,3 +1,5 @@
+local prevScore = 0
+
 function onCreate()
 	for i = 0, getProperty('unspawnNotes.length') - 1 do
 		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Frog' then
@@ -19,9 +21,14 @@ function goodNoteHit(id, noteData, noteType, isSustainNote)
 		setObjectCamera('image', 'other');
 		runTimer('wait', 1);
 
+		setProperty('songScore', prevScore)
 		setProperty('combo', getProperty('combo') - 1)
         setProperty('health', getProperty('health') - 0.023)
 	end
+end
+
+function onUpdate()
+	prevScore = getProperty('songScore')
 end
 
 function onTimerCompleted(tag, loops, loopsleft)
