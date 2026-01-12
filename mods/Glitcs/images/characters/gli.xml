@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gli.png">
+<SubTexture name="gli idle0000" x="264" y="975" width="247" height="392" frameX="-229" frameY="-197" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli idle0001" x="1409" y="442" width="216" height="440" frameX="-244" frameY="-150" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli idle0002" x="797" y="506" width="204" height="455" frameX="-250" frameY="-135" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli idle0003" x="403" y="506" width="197" height="457" frameX="-253" frameY="-133" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli idle0004" x="210" y="506" width="193" height="466" frameX="-255" frameY="-124" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli miss0000" x="193" y="0" width="304" height="471" frameX="-166" frameY="-119" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli miss0001" x="497" y="0" width="267" height="470" frameX="-186" frameY="-120" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli miss0002" x="764" y="0" width="197" height="470" frameX="-256" frameY="-120" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli down0000" x="1171" y="454" width="222" height="436" frameX="-219" frameY="-153" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli down0001" x="600" y="506" width="197" height="456" frameX="-234" frameY="-133" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli up0000" x="0" y="0" width="193" height="506" frameX="-262" frameY="-85" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli up0001" x="961" y="0" width="210" height="470" frameX="-254" frameY="-120" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli left0000" x="0" y="975" width="264" height="435" frameX="-209" frameY="-154" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli left0001" x="1171" y="0" width="238" height="454" frameX="-228" frameY="-135" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli right0000" x="1409" y="0" width="244" height="442" frameX="-251" frameY="-146" frameWidth="720" frameHeight="720" />
+<SubTexture name="gli right0001" x="0" y="506" width="210" height="469" frameX="-257" frameY="-120" frameWidth="720" frameHeight="720" />
+</TextureAtlas>
