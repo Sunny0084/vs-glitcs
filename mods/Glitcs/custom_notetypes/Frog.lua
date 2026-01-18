@@ -1,5 +1,3 @@
-local prevScore = 0
-
 function onCreate()
 	for i = 0, getProperty('unspawnNotes.length') - 1 do
 		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Frog' then
@@ -7,6 +5,7 @@ function onCreate()
 			setPropertyFromGroup('unspawnNotes', i, 'noteSplashData.texture', 'noteSplashes\\frogSplash');
 
 			setPropertyFromGroup('unspawnNotes', i, 'ignoreNote', true)
+			setPropertyFromGroup('unspawnNotes', i, 'hitCausesMiss', true)
 			setPropertyFromGroup('unspawnNotes', i, 'noAnimation', true);
 		end
 	end
@@ -20,10 +19,6 @@ function goodNoteHit(id, noteData, noteType, isSustainNote)
 		addLuaSprite('image', true);
 		setObjectCamera('image', 'other');
 		runTimer('wait', 1);
-
-		setProperty('songScore', prevScore)
-		setProperty('combo', getProperty('combo') - 1)
-        setProperty('health', getProperty('health') - 0.023)
 	end
 end
 
