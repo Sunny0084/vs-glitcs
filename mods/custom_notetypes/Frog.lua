@@ -22,10 +22,6 @@ function goodNoteHit(id, noteData, noteType, isSustainNote)
 	end
 end
 
-function onUpdate()
-	prevScore = getProperty('songScore')
-end
-
 function onTimerCompleted(tag, loops, loopsleft)
 	if tag == 'wait' then
 		doTweenAlpha('byebye', 'image', 0, 1, 'linear');
