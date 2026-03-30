@@ -1,4 +1,4 @@
 Value 1: On/Off to toggle
-Value 2: <empty>
+Value 2: whatever the fuck you want
 
 not case sensitive
