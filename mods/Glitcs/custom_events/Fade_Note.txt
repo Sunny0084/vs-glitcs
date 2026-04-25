@@ -1,4 +1,7 @@
 Smoothly sets the transparency of the notes.
 
 Value 1: Target alpha (0-1)
+         Default: 0
+
 Value 2: Duration
+         Default: 1

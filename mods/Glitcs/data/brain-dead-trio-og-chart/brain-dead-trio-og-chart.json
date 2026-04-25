@@ -5,7 +5,7 @@
 		[
 			0,
 			[
-				["GF Fade", "0", "0"],
+				["Fade_GF", "", "0"],
 				["HUD Bounce", "anything", "2"]
 			]
 		],
@@ -51,7 +51,7 @@
 			126708.074534161,
 			[
 				["Change Character", "gf", "glitcs"],
-				["GF Fade", "0", "100"]
+				["Fade_GF", "0", "100"]
 			]
 		],
 		[
@@ -59,7 +59,7 @@
 			[
 				["imageflash", "blac", ""],
 				["Change Character", "dad", "raptor"],
-				["GF Fade", "0", "0"]
+				["Fade_GF", "", "0"]
 			]
 		],
 		[
@@ -85,7 +85,7 @@
 			232546.583850932,
 			[
 				["Change Character", "gf", "raptor"],
-				["GF Fade", "0", "100"]
+				["Fade_GF", "0", "100"]
 			]
 		],
 		[
@@ -93,7 +93,7 @@
 			[
 				["imageflash", "blac", ""],
 				["Change Character", "dad", "glitcs"],
-				["GF Fade", "0", "100"]
+				["Fade_GF", "0", "100"]
 			]
 		],
 		[
@@ -132,7 +132,7 @@
 			[
 				["Change Character", "dad", "corrupted_eclipse"],
 				["Change Character", "gf", "glitcs"],
-				["GF Fade", "0", "100"]
+				["Fade_GF", "0", "100"]
 			]
 		]
 	],
