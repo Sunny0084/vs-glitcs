@@ -5,7 +5,7 @@ function onEvent(name, value1)
         setObjectCamera('image', 'other');
     end
 
-    if value1 == nil then
+    if value1 == "" then
         removeLuaSprite('image', true)
     end
 end
