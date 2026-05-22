@@ -21,7 +21,7 @@ If you downloaded this from any other place than ninja-muffin24.itch.io/FUNKIN
 You might be in DANGE- LUCK!!!
 
 The Itch.io release is the only official source for the desktop (PC, Mac, Linux) versions of the game!
-As of right now, the game is FREE! If you paid for it, you got SCAMMED!
+As of right now, the game is FREE! If you paid for it, you paid for it.
 
 Now that that's out of the way....
 THANKS FOR DOWNLOADIN. 
